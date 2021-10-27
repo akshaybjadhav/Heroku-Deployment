@@ -1,0 +1,15 @@
+https://diapre.herokuapp.com/
+
+Enter the details between the following range
+
+Pregnancies 0-17
+Glucose 0-199
+Blood Pressure 0-122
+Skin Thickness 0-99
+Insulin 0-846
+BMI 0-67
+Diabetes Pedigree Function 0.078-2.42
+Age 21-81
+
+
+Diabetes 1/0
